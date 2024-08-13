@@ -8,7 +8,7 @@ The Game of Life is a cellular automaton devised by the British mathematician Jo
 
 ## Video Demonstration
 
-![Watch the video demonstration of the Game of Life](https://github.com/ignacionr/gameoflife_wasm/raw/master/RPReplay_Final1723541631.MP4)
+![Watch the video demonstration of the Game of Life](https://github.com/user-attachments/assets/0accc743-8f75-496f-95f4-417d478bc847)
 
 ## Live Lessons
 
